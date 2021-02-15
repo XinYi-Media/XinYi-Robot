@@ -1,5 +1,5 @@
 ---
-name: "【Bug反馈】"
+name: "Bug反馈"
 about: Create a report to help us improve
 title: "【Bug反馈】"
 labels: Bug
